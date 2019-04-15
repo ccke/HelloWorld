@@ -1,2 +1,2 @@
 # HelloWorld
-just a test
+这是一个个人订阅号
