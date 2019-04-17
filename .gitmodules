@@ -1,0 +1,9 @@
+[submodule "vendor/doctrine/lexer"]
+	path = vendor/doctrine/lexer
+	url = ../../doctrine/lexer.git
+[submodule "vendor/doctrine/inflector"]
+	path = vendor/doctrine/inflector
+	url = ../../doctrine/inflector.git
+[submodule "vendor/dragonmantank/cron-expression"]
+	path = vendor/dragonmantank/cron-expression
+	url = ../../dragonmantank/cron-expression.git
